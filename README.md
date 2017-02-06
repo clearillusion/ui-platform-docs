@@ -11,3 +11,12 @@ P2 UI Platform is a reusable UI platform for build web applications with common 
 ## Setup
 
 * Ensure you have Node 6.9.1 or up and NPM 3+ installed.
+* Run local build `ng serve`
+
+---
+
+#### Current version - 1 for the following:
+
+|   | Chrome | Firefox | Safari | Edge* | Mobile Chrome* | Mobile Safari* | IE11
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| __Supported__ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | x |
