@@ -6,7 +6,7 @@
 
 P2 UI Platform is a reusable UI platform for build web applications with common standards and toolings. It is based on Angular.
 
-**Vision: To build an atomic, reusable component platform for P2 Energy Solutions to consume.
+**Vision: To build an atomic, reusable component platform for P2 Energy Solutions to consume.**
 
 ## Setup
 
