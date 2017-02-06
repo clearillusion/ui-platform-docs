@@ -1,7 +1,13 @@
 ## P2 UI Platform based on Angular
 
-@p2/startup [![npm version](https://badge.fury.io/js/%40p2%2Fstartup.svg)](https://badge.fury.io/js/%40p2%2Fstartup)
+[![npm version](https://badge.fury.io/js/%40p2%2Fstartup.svg)](https://badge.fury.io/js/%40p2%2Fstartup)
 
 <img alt="P2ES" src="http://ui-platform.azurewebsites.net/assets/img/logo.png" width="60">
 
+P2 UI Platform is a reusable UI platform for build web applications with common standards and toolings. It is based on Angular.
 
+**Vision: To build an atomic, reusable component platform for P2 Energy Solutions to consume.
+
+## Setup
+
+* Ensure you have Node 6.9.1 or up and NPM 3+ installed.
