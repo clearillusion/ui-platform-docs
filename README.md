@@ -11,6 +11,8 @@ P2 UI Platform is a reusable UI platform for P2ES to build web applications with
 ## Setup
 
 * Ensure you have Node 6.9.1 or up and NPM 3+ installed.
+* Install Node packages `npm i`
+* Build vendor scripts and stylesheets `gulp build`
 * Run local build `ng serve`
 
 ---
