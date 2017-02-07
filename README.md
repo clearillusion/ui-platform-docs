@@ -31,7 +31,7 @@ P2 UI Platform contains a variety of components that are a part of P2 Platform d
 
 | Feature | Template | Status | Docs | Issue
 |:---:|:---:|:---:|:---:|:---:|
-| Button | `pui-button` | beta | [Readme](docs/BUTTON_README.md) | - |
+| Button | `<pui-button>` | `Beta` | [Readme](docs/BUTTON_README.md) | - |
 
 ## Browser Support
 P2 UI Platform is built on a Bootstrap Grid System, so the current browsers are supported in order or recommendation:
