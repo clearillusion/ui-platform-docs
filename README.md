@@ -19,6 +19,9 @@ P2 UI Platform is a reusable UI platform for P2ES to build web applications with
 
 * [Getting Started](GETTING_STARTED.md)
 
+## Browser Support
+P2 UI Platform is built on a Bootstrap Grid System, so the current browsers are supported in order or recommendation:
+
 #### Current version - 1 for the following:
 
 |   | Chrome | Firefox | Safari | Edge* | Mobile Chrome* | Mobile Safari* | IE11
