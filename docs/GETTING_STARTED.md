@@ -58,7 +58,7 @@ platformBrowserDynamic().bootstrapModule(PuiStartupModule);
 This is **required** to apply all of the core and theme styles to your application.
 
 **angular-cli.json**
-```json
+```
 {
     "apps": [
         "styles": [
