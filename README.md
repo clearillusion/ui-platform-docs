@@ -21,6 +21,7 @@ P2 UI Platform is a reusable UI platform for P2ES to build web applications with
 
 * [Getting Started](docs/GETTING_STARTED.md)
 * [Developer Guide](docs/DEVELOPER_GUIDE.md)
+* [Running Unit Tests](#running-unit-tests)
 * [Releasing](docs/RELEASE.md)
 * [Changelog](docs/CHANGELOG.md)
 * [Quickstart](https://github.com/p2es/platform-quickstart)
@@ -44,6 +45,12 @@ P2 UI Platform contains a variety of components that are a part of P2 Platform d
 | Radio | `<pui-radio>` | `beta` | [readme](docs/RADIO_README.md) | - |
 | Select | `<pui-select>` | `beta` | [readme](docs/SELECT_README.md) | - |
 | Tab | `<pui-tabs>` `<pui-tab>` | `available` | [readme](docs/TAB_README.md) | - |
+
+## Running unit tests
+
+```bash
+ng test
+```
 
 ## Browser Support
 P2 UI Platform is built on a Bootstrap Grid System, so the current browsers are supported in order or recommendation:
