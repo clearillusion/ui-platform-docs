@@ -23,6 +23,7 @@ P2 UI Platform is a reusable UI platform for P2ES to build web applications with
 * [Developer Guide](docs/DEVELOPER_GUIDE.md)
 * [Running Unit Tests](#running-unit-tests)
 * [Running End-to-End Tests](#running-end-to-end-tests)
+* [Linting code](#linting-code)
 * [Releasing](docs/RELEASE.md)
 * [Changelog](docs/CHANGELOG.md)
 * [Quickstart](https://github.com/p2es/platform-quickstart)
@@ -64,6 +65,10 @@ ng e2e
 Before running the tests make sure you are serving the app via `ng serve`.
 
 End-to-end tests are run via [Protractor](https://angular.github.io/protractor/).
+
+## Linting code
+
+You can lint your app code by running `ng lint`.
 
 ## Browser Support
 P2 UI Platform is built on a Bootstrap Grid System, so the current browsers are supported in order or recommendation:
