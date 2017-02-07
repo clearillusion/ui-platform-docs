@@ -17,10 +17,10 @@ P2 UI Platform is a reusable UI platform for P2ES to build web applications with
 
 ## Table of Contents
 
-* [Getting Started](GETTING_STARTED.md)
-* [Developer Guide](DEVELOPER_GUIDE.md)
-* [Releasing](RELEASE.md)
-* [Changelog](CHANGELOG.md)
+* [Getting Started](docs/GETTING_STARTED.md)
+* [Developer Guide](docs/DEVELOPER_GUIDE.md)
+* [Releasing](docs/RELEASE.md)
+* [Changelog](docs/CHANGELOG.md)
 * [Quickstart](https://github.com/p2es/platform-quickstart)
 
 ## Browser Support
