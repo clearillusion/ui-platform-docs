@@ -40,7 +40,7 @@ P2 UI Platform contains a variety of components that are a part of P2 Platform d
 | Grid | `<pui-grid>` | `beta` | [readme](docs/GRID_README.md) | - |
 | Input | `<pui-input>` | `beta` | [readme](docs/INPUT_README.md) | - |
 | Navigation | `<pui-nav>` `<pui-nav-item>` | `beta` | [readme](docs/NAVIGATION_README.md) | - |
-| Portlet | `<pui-portlet>` `<pui-portlet-body` | `available` | [readme](docs/PORTLET_README.md) | - |
+| Portlet | `<pui-portlet>` `<pui-portlet-header>` `<pui-portlet-body` | `available` | [readme](docs/PORTLET_README.md) | - |
 | Radio | `<pui-radio>` | `beta` | [readme](docs/RADIO_README.md) | - |
 | Select | `<pui-select>` | `beta` | [readme](docs/SELECT_README.md) | - |
 | Tab | `<pui-tabs>` `<pui-tab>` | `available` | [readme](docs/TAB_README.md) | - |
