@@ -52,6 +52,18 @@ P2 UI Platform contains a variety of components that are a part of P2 Platform d
 ng test
 ```
 
+Tests will execute after a build is executed via [Karma](http://karma-runner.github.io/0.13/index.html), and it will automatically watch your files for changes. You can run tests a single time via `--watch=false` or `--single-run`.
+
+## Running end-to-end tests
+
+```bash
+ng e2e
+```
+
+Before running the tests make sure you are serving the app via `ng serve`.
+
+End-to-end tests are run via [Protractor](https://angular.github.io/protractor/).
+
 ## Browser Support
 P2 UI Platform is built on a Bootstrap Grid System, so the current browsers are supported in order or recommendation:
 
