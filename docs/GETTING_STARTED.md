@@ -60,19 +60,15 @@ This is **required** to apply all of the core and theme styles to your applicati
 **angular-cli.json**
 ```json
 {
-    ...,
     "apps": [
-        ...,
         "styles": [
         "../node_modules/@p2/styles/core.css",
         "styles.css"
         ],
         "scripts": [
             "../node_modules/@p2/styles/core.js"
-        ],
-        ...
-    ],
-    ...
+        ]
+    ]
 }
 ```
 
