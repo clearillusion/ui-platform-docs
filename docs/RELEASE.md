@@ -1,4 +1,4 @@
-# Release Guide for the Platform
+# Release Guide for the Platform *
 
 ## Release
 
